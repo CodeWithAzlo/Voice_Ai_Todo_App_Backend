@@ -1,4 +1,4 @@
-from app import Base, engine
+from app.main import Base, engine
 import logging
 
 logging.basicConfig(level=logging.INFO)
