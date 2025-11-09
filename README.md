@@ -17,7 +17,7 @@ Manage your tasks using **voice commands** with AI assistance.
 ---
 
 ## 📁 Folder Structure
-
+```
 voice_todo_ai/
 │
 ├─ app/
@@ -33,7 +33,7 @@ voice_todo_ai/
 ├─ .env.example # Sample environment variables
 ├─ requirements.txt
 └─ README.md
-
+```
 
 ---
 
